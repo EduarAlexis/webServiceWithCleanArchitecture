@@ -1,0 +1,17 @@
+com/nisium/jpa/helper/AdapterOperations.java
+ com.nisium.jpa.helper.AdapterOperations
+com/nisium/jpa/config/DBSecret.java
+ com.nisium.jpa.config.DBSecret
+ com.nisium.jpa.config.DBSecret$DBSecretBuilder
+com/nisium/jpa/user/UserData.java
+ com.nisium.jpa.user.UserData
+com/nisium/jpa/user/UserRepository.java
+ com.nisium.jpa.user.UserRepository
+com/nisium/jpa/phone/PhoneRepository.java
+ com.nisium.jpa.phone.PhoneRepository
+com/nisium/jpa/user/UserRepositoryAdapter.java
+ com.nisium.jpa.user.UserRepositoryAdapter
+com/nisium/jpa/phone/PhoneData.java
+ com.nisium.jpa.phone.PhoneData
+com/nisium/jpa/phone/PhoneRepositoryAdapter.java
+ com.nisium.jpa.phone.PhoneRepositoryAdapter

@@ -1,0 +1,10 @@
+dependencies {
+    implementation project(':usecase')
+    implementation project(':model')
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-actuator'
+    implementation 'org.jetbrains:annotations:20.1.0'
+    implementation 'org.jetbrains:annotations:20.1.0'
+    implementation "org.hibernate.validator:hibernate-validator:6.0.13.Final"
+    //implementation 'javax.validation:validation-api:2.0.1.Final'
+}

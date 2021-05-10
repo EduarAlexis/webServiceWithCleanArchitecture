@@ -1,0 +1,12 @@
+com/nisium/model/exception/EmailExistsException.java
+ com.nisium.model.exception.EmailExistsException
+com/nisium/model/phone/Phone.java
+ com.nisium.model.phone.Phone
+ com.nisium.model.phone.Phone$PhoneBuilder
+com/nisium/model/user/User.java
+ com.nisium.model.user.User
+ com.nisium.model.user.User$UserBuilder
+com/nisium/model/user/gateways/UserRepository.java
+ com.nisium.model.user.gateways.UserRepository
+com/nisium/model/phone/gateways/PhoneRepository.java
+ com.nisium.model.phone.gateways.PhoneRepository
