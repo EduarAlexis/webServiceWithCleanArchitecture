@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.nisium.usecase.phone.PhoneUseCaseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-05-10T14:52:52" hostname="MacBook-Pro-de-ANDROID.local" time="0.671">
+  <properties/>
+  <testcase name="getAllTestCase" classname="com.nisium.usecase.phone.PhoneUseCaseTest" time="0.669"/>
+  <testcase name="saveTestCase" classname="com.nisium.usecase.phone.PhoneUseCaseTest" time="0.001"/>
+  <system-out><![CDATA[Save test
+Save test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

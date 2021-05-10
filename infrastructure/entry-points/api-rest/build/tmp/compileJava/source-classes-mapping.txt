@@ -1,16 +1,16 @@
-com/nisium/api/exceptionhandling/ApiRestExceptionHandler.java
- com.nisium.api.exceptionhandling.ApiRestExceptionHandler
-com/nisium/api/model/request/UserRequest.java
- com.nisium.api.model.request.UserRequest
- com.nisium.api.model.request.UserRequest$UserRequestBuilder
-com/nisium/api/model/response/ErrorResponse.java
- com.nisium.api.model.response.ErrorResponse
- com.nisium.api.model.response.ErrorResponse$ErrorResponseBuilder
-com/nisium/api/model/response/UserResponse.java
- com.nisium.api.model.response.UserResponse
- com.nisium.api.model.response.UserResponse$UserResponseBuilder
 com/nisium/api/model/request/PhoneRequest.java
  com.nisium.api.model.request.PhoneRequest
  com.nisium.api.model.request.PhoneRequest$PhoneRequestBuilder
+com/nisium/api/model/request/UserRequest.java
+ com.nisium.api.model.request.UserRequest
+ com.nisium.api.model.request.UserRequest$UserRequestBuilder
+com/nisium/api/exceptionhandling/ApiRestExceptionHandler.java
+ com.nisium.api.exceptionhandling.ApiRestExceptionHandler
 com/nisium/api/ApiRest.java
  com.nisium.api.ApiRest
+com/nisium/api/model/response/UserResponse.java
+ com.nisium.api.model.response.UserResponse
+ com.nisium.api.model.response.UserResponse$UserResponseBuilder
+com/nisium/api/model/response/ErrorResponse.java
+ com.nisium.api.model.response.ErrorResponse
+ com.nisium.api.model.response.ErrorResponse$ErrorResponseBuilder

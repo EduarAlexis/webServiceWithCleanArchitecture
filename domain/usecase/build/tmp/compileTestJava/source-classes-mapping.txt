@@ -1,0 +1,4 @@
+com/nisium/usecase/user/UserUserCaseTest.java
+ com.nisium.usecase.user.UserUserCaseTest
+com/nisium/usecase/phone/PhoneUseCaseTest.java
+ com.nisium.usecase.phone.PhoneUseCaseTest

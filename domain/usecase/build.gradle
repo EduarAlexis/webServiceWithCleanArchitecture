@@ -1,3 +1,6 @@
 dependencies {
+    implementation 'junit:junit:4.13.1'
+    implementation 'junit:junit:4.13.1'
     compile project(':model')
+    testImplementation group: 'org.mockito', name: 'mockito-core', version: '2.7.22'
 }

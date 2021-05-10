@@ -31,7 +31,7 @@ public class UserUseCase {
             List<Phone> phones = this.phoneUseCase.saveAll(user.getPhones());
             user.setPhones(phones);
             user = this.userRepository.save(user);
-            user.setPhones(phones);
+             user.setPhones(phones);
             return user;
         } else {
             throw new EmailExistsException(user.getEmail());

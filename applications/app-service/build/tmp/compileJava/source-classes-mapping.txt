@@ -1,8 +1,8 @@
 com/nisium/MainApplication.java
  com.nisium.MainApplication
-com/nisium/config/JpaConfig.java
- com.nisium.config.JpaConfig
-com/nisium/config/ObjectMapperConfig.java
- com.nisium.config.ObjectMapperConfig
 com/nisium/config/UseCasesConfig.java
  com.nisium.config.UseCasesConfig
+com/nisium/config/ObjectMapperConfig.java
+ com.nisium.config.ObjectMapperConfig
+com/nisium/config/JpaConfig.java
+ com.nisium.config.JpaConfig
