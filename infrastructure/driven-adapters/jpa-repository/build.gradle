@@ -1,5 +1,6 @@
 dependencies {
     implementation project(':model')
+    implementation 'junit:junit:4.13.1'
 
     compile 'org.springframework.boot:spring-boot-starter-data-jpa'
     implementation 'org.reactivecommons.utils:object-mapper-api:0.1.0'

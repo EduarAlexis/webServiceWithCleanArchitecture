@@ -11,7 +11,7 @@ com/nisium/jpa/helper/AdapterOperations.java
  com.nisium.jpa.helper.AdapterOperations
 com/nisium/jpa/phone/PhoneData.java
  com.nisium.jpa.phone.PhoneData
-com/nisium/jpa/phone/PhoneRepositoryAdapter.java
- com.nisium.jpa.phone.PhoneRepositoryAdapter
 com/nisium/jpa/user/UserData.java
  com.nisium.jpa.user.UserData
+com/nisium/jpa/phone/PhoneRepositoryAdapter.java
+ com.nisium.jpa.phone.PhoneRepositoryAdapter
