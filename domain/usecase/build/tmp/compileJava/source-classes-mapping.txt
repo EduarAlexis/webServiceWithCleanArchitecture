@@ -1,4 +1,4 @@
-com/nisium/usecase/phone/PhoneUseCase.java
- com.nisium.usecase.phone.PhoneUseCase
 com/nisium/usecase/user/UserUseCase.java
  com.nisium.usecase.user.UserUseCase
+com/nisium/usecase/phone/PhoneUseCase.java
+ com.nisium.usecase.phone.PhoneUseCase
